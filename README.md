@@ -10,3 +10,4 @@ The roadmap follows:
 - Encryption of messages and contacts, stored locally
 - Discord functionality: create "servers" which will be sets of groupchats listed as 'channels' in the UI
 - Flesh out UI
+- Come up with a better name than rustcord
